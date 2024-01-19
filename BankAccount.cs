@@ -6,16 +6,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
 
-/*
- Skapa en klass för att representera en enkel bankkontoapplikation.
-1. Skapa en klass med namnet Bankkonto.
-2. Klassen ska ha medlemmar för kontonummer (kontonummer), kontoinnehavarens namn
-(kontoinnehavare), och saldo (saldo).
-3. Skapa metoder för att sätta saldo (SättSaldo) och hämta saldo (HämtaSaldo).
-4. Skapa en metod för att genomföra en insättning (Insättning) och en metod för att genomföra
-ett uttag (Uttag).
- */
-
 namespace exerciseBankAccount
 {
     public class BankAccount
